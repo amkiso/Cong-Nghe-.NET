@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HOANGVU\\TAI LIEU HOC PHAN\\Cong nghe .NET\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\Bt_VN_Buoi4.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\amkiso\\Cong-Nghe-.NET\\Git\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\Bt_VN_Buoi4.csproj": {}
   },
   "projects": {
-    "D:\\HOANGVU\\TAI LIEU HOC PHAN\\Cong nghe .NET\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\Bt_VN_Buoi4.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\amkiso\\Cong-Nghe-.NET\\Git\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\Bt_VN_Buoi4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HOANGVU\\TAI LIEU HOC PHAN\\Cong nghe .NET\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\Bt_VN_Buoi4.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\amkiso\\Cong-Nghe-.NET\\Git\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\Bt_VN_Buoi4.csproj",
         "projectName": "Bt_VN_Buoi4",
-        "projectPath": "D:\\HOANGVU\\TAI LIEU HOC PHAN\\Cong nghe .NET\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\Bt_VN_Buoi4.csproj",
-        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "D:\\HOANGVU\\TAI LIEU HOC PHAN\\Cong nghe .NET\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\amkiso\\Cong-Nghe-.NET\\Git\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\Bt_VN_Buoi4.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\amkiso\\Cong-Nghe-.NET\\Git\\Bt_VN_Buoi4\\Bt_VN_Buoi4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
@@ -43,9 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -69,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
