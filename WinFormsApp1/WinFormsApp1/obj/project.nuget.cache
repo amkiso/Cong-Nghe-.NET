@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1r4khG7Ny7w=",
+  "success": true,
+  "projectFilePath": "D:\\HOANGVU\\DuAn\\Code\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\htmlagilitypack\\1.12.3\\htmlagilitypack.1.12.3.nupkg.sha512"
+  ],
+  "logs": []
+}
